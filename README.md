@@ -1,4 +1,4 @@
-# heroku-buildpack-ffmpeg-latest
+# heroku-buildpack-ffmpeg-latest.
 
 [![CircleCI](https://circleci.com/gh/jonathanong/heroku-buildpack-ffmpeg-latest/tree/master.svg?style=svg)](https://circleci.com/gh/jonathanong/heroku-buildpack-ffmpeg-latest/tree/master)
 
